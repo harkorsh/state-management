@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/state-management/static/css/main.073c9b0a.css",
+    "main.js": "/state-management/static/js/main.0f830d94.js",
+    "static/js/787.c5c26ec6.chunk.js": "/state-management/static/js/787.c5c26ec6.chunk.js",
+    "static/media/logo.svg": "/state-management/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/state-management/index.html",
+    "main.073c9b0a.css.map": "/state-management/static/css/main.073c9b0a.css.map",
+    "main.0f830d94.js.map": "/state-management/static/js/main.0f830d94.js.map",
+    "787.c5c26ec6.chunk.js.map": "/state-management/static/js/787.c5c26ec6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0f830d94.js"
+  ]
+}
